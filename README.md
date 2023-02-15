@@ -2,6 +2,14 @@
 This is basic project to understand the react native core concepts 
 
 
+
+
+
+
+
+
+
+
 # To install node modules required
 npm install
 
